@@ -1,5 +1,6 @@
-# Hello-World-
-- **Section 1**
-- *Section 2*
-- > Section 3
-- `Section 4`
+# Berekets Hello-World-
+- ** Elementry **
+- * Middle School *
+- > High School 
+- `College`
+- [Check me out on LinkedIn] (https://www.linkedin.com/in/bereket-ware-50ba0322b/) 
